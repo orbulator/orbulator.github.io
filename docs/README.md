@@ -2,7 +2,7 @@
 
 This project was created as the final project for ECE 433 - Embedded Systems at Boise State University. 
 
-It consists of 3d printed mechanical parts and electromechanical components, and software control algorithms. The hardware is controlled by an STM32 microcontroller programmed at the register level.
+It consists of 3d printed mechanical parts, electromechanical components, and software control algorithms. The hardware is controlled by an STM32 microcontroller programmed at the register level.
 
 A detailed design report can be found here: 
 	[PID-ball-robot.pdf](https://sportellimike.github.io/portfolio/assets/PID-Ball-Robot.pdf)\
