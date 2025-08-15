@@ -1,3 +1,5 @@
+![](https://sportellimike.github.io/portfolio/assets/images/montana.jpg)
+
 ## PID Ball Balancing Robot - June 2025
 
 This project was created as the final project for ECE 433 - Embedded Systems at Boise State University. 
